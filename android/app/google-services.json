@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669897459657",
+    "project_id": "assistly-29a43",
+    "storage_bucket": "assistly-29a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669897459657:android:0263faaf00b8990ff44a18",
+        "android_client_info": {
+          "package_name": "com.example.assistly_personal_ai_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAHC-JEweJPNWtWU7uvn1tuDebETUb3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
